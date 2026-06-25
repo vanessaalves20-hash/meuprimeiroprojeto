@@ -1,9 +1,16 @@
-*{
-   background-color: black;
-}
+ {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  
+ }
+
+ header{
+  background-color: blue;
+ }
+
 
 h1{
-  color: rgb(248, 254, 252);
+  font-size: 14px;
+  color: white;
 }
 h2{
  color: beige;
